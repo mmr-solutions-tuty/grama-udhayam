@@ -1,9 +1,9 @@
-  =>  Template Name    : Gardener - Gardening Website Template
+  =>  Template Name    : Grama Udhaym - Gardening Website Template
 
-  =>  Template Link    : https://htmlcodex.com/gardening-website-template
+  =>  Template Link    : #/gardening-website-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : #/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : MMR Solutions
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : #
